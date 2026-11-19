@@ -1,0 +1,1 @@
+flag{nginx_foothold_38f2a1}
