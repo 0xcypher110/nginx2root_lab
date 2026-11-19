@@ -1,0 +1,7 @@
+services:
+  nginx2root:
+    build: .
+    container_name: nginx2root
+    ports:
+      - "9991:9991"
+    restart: unless-stopped
