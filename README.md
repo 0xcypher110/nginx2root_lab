@@ -1,5 +1,9 @@
 # nginx2root
 
+<center>
+<img src="https://raw.githubusercontent.com/0xcypher110/nginx2root_lab/refs/heads/main/assets/cover.png">
+</center>
+
 A local, Docker-based reproduction of CVE-2026-123007, an HTTP/2 flow-control
 integer underflow in nginx that leads to remote code execution with the
 worker process's privileges. Published nginx versions 1.9.5 through 1.31.8
